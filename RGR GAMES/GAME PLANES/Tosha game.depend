@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1526664056 source:/home/ddone/Desktop/Tosha game/main.cpp
+	<SFML/Graphics.hpp>
+	"common.hpp"
+	"plane.hpp"
+	"bullet.hpp"
+
+1526657767 /home/ddone/Desktop/Tosha game/common.hpp
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1526658319 /home/ddone/Desktop/Tosha game/plane.hpp
+	"common.hpp"
+	<stdlib.h>
+
+1526658332 source:/home/ddone/Desktop/Tosha game/plane.cpp
+	"plane.hpp"
+
+1526663539 source:/home/ddone/Desktop/Tosha game/bullet.cpp
+	"bullet.hpp"
+
+1526663612 /home/ddone/Desktop/Tosha game/bullet.hpp
+	"common.hpp"
+	"plane.hpp"
+

@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1526123010 source:/home/ddone/Desktop/Game proga/main.cpp
+	<SFML/Graphics.hpp>
+	"menu.hpp"
+
+1526125125 /home/ddone/Desktop/Game proga/menu.hpp
+	<SFML/Graphics.hpp>
+
+1526148381 source:/home/ddone/Desktop/Game proga/menu.cpp
+	"menu.hpp"
+	"game.hpp"
+
+1526138030 source:/home/ddone/Desktop/Game proga/game.cpp
+	"game.hpp"
+	"match.hpp"
+
+1526125217 /home/ddone/Desktop/Game proga/game.hpp
+	<SFML/Graphics.hpp>
+
+1526133432 /home/ddone/Desktop/Game proga/match.hpp
+	"SFML/Graphics.hpp"
+
+1526133476 source:/home/ddone/Desktop/Game proga/match.cpp
+	"match.hpp"
+
+1526202261 source:/home/ddone/Desktop/Game proga popov/main.cpp
+	<stdlib.h>
+	<SFML/Graphics.hpp>
+	"menu.hpp"
+
+1526125125 /home/ddone/Desktop/Game proga popov/menu.hpp
+	<SFML/Graphics.hpp>
+
+1526207155 source:/home/ddone/Desktop/Game proga popov/match.cpp
+	"match.hpp"
+	<math.h>
+	<iostream>
+
+1526201974 /home/ddone/Desktop/Game proga popov/match.hpp
+	<stdlib.h>
+	"SFML/Graphics.hpp"
+
+1526149063 source:/home/ddone/Desktop/Game proga popov/menu.cpp
+	"menu.hpp"
+	"game.hpp"
+
+1526202434 /home/ddone/Desktop/Game proga popov/game.hpp
+	"match.hpp"
+	<stdlib.h>
+	<vector>
+	<SFML/Graphics.hpp>
+
+1526214542 source:/home/ddone/Desktop/Game proga popov/game.cpp
+	<iostream>
+	"game.hpp"
+

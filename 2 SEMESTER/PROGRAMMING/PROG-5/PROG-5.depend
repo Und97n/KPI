@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525967687 source:/home/ddone/labs/semestr-2/PROG-5/main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<math.h>
+

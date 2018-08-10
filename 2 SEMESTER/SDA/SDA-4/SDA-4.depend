@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1523344682 source:/home/ddone/labs/semestr-2/SDA-4/m1.c
+	"m1.h"
+
+1523344131 /home/ddone/labs/semestr-2/SDA-4/m1.h
+	"m2.h"
+	"common.h"
+
+1523344355 /home/ddone/labs/semestr-2/SDA-4/m2.h
+	"m1.h"
+	"common.h"
+
+1523348424 /home/ddone/labs/semestr-2/SDA-4/common.h
+	"err.h"
+
+1523344628 source:/home/ddone/labs/semestr-2/SDA-4/m2.c
+	"m2.h"
+
+1523348487 source:/home/ddone/labs/semestr-2/SDA-4/m3.c
+	"m3.h"
+
+1523344426 /home/ddone/labs/semestr-2/SDA-4/m3.h
+	"common.h"
+
+1523353474 source:/home/ddone/labs/semestr-2/SDA-4/main.c
+	<stdio.h>
+	<stdlib.h>
+	"common.h"
+	"m1.h"
+	"m2.h"
+	"m3.h"
+
+1523346561 /home/ddone/labs/semestr-2/SDA-4/err.h
+	"common.h"
+
+1523346601 source:/home/ddone/labs/semestr-2/SDA-4/err.c
+	"err.h"
+

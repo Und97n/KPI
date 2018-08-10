@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513083883 source:/home/ddone/labs/SDA/Lab6/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+

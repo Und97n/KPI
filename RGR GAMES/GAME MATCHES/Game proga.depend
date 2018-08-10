@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1526123010 source:/home/ddone/Desktop/Game proga/main.cpp
+	<SFML/Graphics.hpp>
+	"menu.hpp"
+
+1526125125 /home/ddone/Desktop/Game proga/menu.hpp
+	<SFML/Graphics.hpp>
+
+1526149063 source:/home/ddone/Desktop/Game proga/menu.cpp
+	"menu.hpp"
+	"game.hpp"
+
+1526216626 source:/home/ddone/Desktop/Game proga/game.cpp
+	"game.hpp"
+	"match.hpp"
+	<vector>
+
+1526125217 /home/ddone/Desktop/Game proga/game.hpp
+	<SFML/Graphics.hpp>
+
+1526215775 /home/ddone/Desktop/Game proga/match.hpp
+	"SFML/Graphics.hpp"
+
+1526216249 source:/home/ddone/Desktop/Game proga/match.cpp
+	"match.hpp"
+

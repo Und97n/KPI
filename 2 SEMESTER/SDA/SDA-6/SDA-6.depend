@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1526967445 source:/home/ddone/labs/semestr-2/SDA-6/main.cpp
+	<iostream>
+	<cstdlib>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507138702 source:/home/ddone/labs/SDA/Lab2_Dynamic/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

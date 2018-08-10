@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511267788 source:/home/ddone/labs/SDA/lab5.2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

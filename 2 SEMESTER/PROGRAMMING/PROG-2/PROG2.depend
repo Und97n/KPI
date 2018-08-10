@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521060629 source:/home/ddone/labs/semestr-2/PROG2/main.c
+	<stdio.h>
+	<stdlib.h>
+

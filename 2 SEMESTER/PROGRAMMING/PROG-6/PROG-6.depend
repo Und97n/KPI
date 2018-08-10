@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1526540631 source:/home/ddone/labs/semestr-2/PROG-6/main.cpp
+	<iostream>
+	"Material.hpp"
+
+1526540065 /home/ddone/labs/semestr-2/PROG-6/Material.hpp
+	<iostream>
+
+1526540145 source:/home/ddone/labs/semestr-2/PROG-6/Material.cpp
+	"Material.hpp"
+

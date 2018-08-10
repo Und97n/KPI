@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507138710 source:/home/ddone/labs/SDA/Lab2_2Cycles/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

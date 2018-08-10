@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519839190 source:/home/ddone/labs/semestr-2/PROG-1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

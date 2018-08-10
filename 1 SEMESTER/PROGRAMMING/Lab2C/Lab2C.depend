@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508744778 source:/home/ddone/labs/Lab2C/main.c
+	<stdio.h>
+	<math.h>
+

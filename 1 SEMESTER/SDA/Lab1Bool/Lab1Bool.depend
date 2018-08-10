@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508243046 source:/home/ddone/labs/SDA/Lab1Bool/main.c
+	<stdio.h>
+	<math.h>
+

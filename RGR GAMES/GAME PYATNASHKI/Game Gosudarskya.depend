@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1526587351 source:/home/ddone/Desktop/Game Gosudarskya/Grid.cpp
+	"Grid.hpp"
+	<iostream>
+	<stdlib.h>
+
+1526586924 /home/ddone/Desktop/Game Gosudarskya/Grid.hpp
+	<SFML/Graphics.hpp>
+
+1526587089 source:/home/ddone/Desktop/Game Gosudarskya/main.cpp
+	<SFML/Graphics.hpp>
+	"Grid.hpp"
+	<iostream>
+
